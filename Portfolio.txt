@@ -125,31 +125,35 @@ JavaScript components:
 
     Var Type
         Recognize the type of a variable
-        GitHub: https://github.com/VarType
+        GitHub: https://github.com/setfolder/VarType
+
+    array.p()
+        Get data from Array and change it using the number of an element (from 1) instead of its index (from 0).
+        GitHub: https://github.com/setfolder/array_p
 
     Substrings
         Replace, insert, delete substrings
-        GitHub: https://github.com/Substrings
+        GitHub: https://github.com/setfolder/Substrings
 
     Save web pages
         Save web pages from a browser window.
-        GitHub: https://github.com/SaveWebpages
+        GitHub: https://github.com/setfolder/SaveWebpages
 
     PageElements
         Displays the structure of a web page by outline each page element.
-        GitHub: https://github.com/PageElements
+        GitHub: https://github.com/setfolder/PageElements
 
 TypeScript:
 
     Two Lists
         Mouse-dragging list items made in TypeScript
-        GitHub: https://github.com/TwoLists
+        GitHub: https://github.com/setfolder/TwoLists
 
 AkelPad scripts:
 
     DelByGroups
         Deleting by groups of characters in AkelPad - how it should be (by Ctrl+BackSpace)
-        GitHub: https://github.com/DelByGroups
+        GitHub: https://github.com/setfolder/DelByGroups
 
 React:
 
